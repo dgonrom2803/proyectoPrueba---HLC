@@ -1,0 +1,7 @@
+{
+  "name": "adivinanum",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
